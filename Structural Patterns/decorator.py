@@ -1,4 +1,3 @@
-
 # Author     :  Omar Hamed Marie
 # Description:  Decorator lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 # Date       :  19 SEP 2022
